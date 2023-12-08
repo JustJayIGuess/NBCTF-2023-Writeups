@@ -1,7 +1,7 @@
 # NBCTF-2023-Writeups
 
 # Sudoku Revenge
->This was a challenge in the Newport-Blake 2023 CTF in the *algo* category.
+>This was a challenge in the Newport-Blake 2023 CTF in the *algo* category. My team didn't actually get this challenge in the competition, but we worked on it and evetually got it while the challenge writeups were embargoed.
 ## The Problem
 We are given a square grid of side length, $n\in[100,200]$, with $n$ entries from $1\rightarrow n$. No two initial entries will occupy the same row and column.
 For example, the following are potential initial states of the grid given to us if $n$ was much smaller.
